@@ -1,0 +1,7 @@
+name: gLib
+author: giantcrack
+version: 1.0
+main: me.giantcrack.glib.GLib
+commands:
+   glib:
+      description: gLib test command!
